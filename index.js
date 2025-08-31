@@ -1,7 +1,5 @@
 //Declarar las funciones de la calculadora por separado (suma, resta, producto, división)
-function suma(a, b) {
-    return a + b;
-}
+
 
 function resta(a, b) {
     return a - b;
