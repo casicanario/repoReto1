@@ -1,7 +1,8 @@
 //Declarar las funciones de la calculadora por separado (suma, resta, producto, división)
-//reto 5 , quitar funcion suma de este archivo.
 
-
+function suma(a, b) {
+    return a + b;
+}
 function resta(a, b) {
     return a - b;
 }
