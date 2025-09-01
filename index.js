@@ -1,4 +1,9 @@
 //Declarar las funciones de la calculadora por separado (suma, resta, producto, división)
+//Modificar la funcion suma para que reciba 3 numeros por parametro y los sume.
+
+function suma(a, b, c) {
+    return a + b + c;
+}
 
 function suma(a, b) {
     return a + b;
